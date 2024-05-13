@@ -1,0 +1,1 @@
+книга по git:\nn https://git-scm.com/book/ru/v2/
